@@ -1,3 +1,3 @@
-介绍见：
+Introduction：
 
 <https://tenshi0x0.github.io/CS-learning/src/AI/RL/MathFoundationRL/>
